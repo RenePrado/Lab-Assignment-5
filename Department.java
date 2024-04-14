@@ -33,6 +33,7 @@ public class Department {
     public HashMap<String, Employee> getEmployeeMap() {
         return employeeMap;
     }
+    
     public void setEmployeeMap(HashMap<String, Employee> employeeMap) {
         this.employeeMap = employeeMap;
     }
